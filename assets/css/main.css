@@ -2991,7 +2991,7 @@ input, select, textarea {
 				width: 16em;
 			}
 
-		@media screen and (max-width: 980px) {
+		/* @media screen and (max-width: 980px) {
 
 			.spotlight {
 				-moz-flex-direction: column-reverse;
@@ -3043,7 +3043,7 @@ input, select, textarea {
 					width: 12em;
 				}
 
-		}
+		} */
 
 	.spotlight .image {
 		border-color: rgba(255, 255, 255, 0.35);
